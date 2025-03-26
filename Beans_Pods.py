@@ -106,5 +106,7 @@ elif menu == 'les objets':
 
         En suivant ces recommandations, Beans & Pods peut optimiser sa campagne marketing et augmenter ses revenus.
     """)
+     # Lien GitHub
+    st.markdown("Lien GitHub : (https://github.com/jospin646/Projet1IA1")
 
    
